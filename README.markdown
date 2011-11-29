@@ -1,7 +1,7 @@
 ..................... dotjs ........................
 
 dotjs is an extension that executes JavaScript files
-in `./js` based on their filename.
+in `~/.js` based on their filename.
 
 See the main [dotjs page](http://defunkt.io/dotjs/)
 or [repository](https://github.com/defunkt/dotjs)
@@ -20,11 +20,8 @@ Extensions List near you.
 
 ## Install it
 
-Download [jQuery](http://jquery.com) into
-~/.js/jquery.js (minified is fine).
-
-Then simply drag the config.xml onto Opera to
-install in developer mode.  Will be packaged and
+Simply drag the config.xml onto Opera to install in
+developer mode.  Will hopefully be packaged and
 available from [the Opera extension
 list](https://addons.opera.com) soon.
 
