@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://github.com/Nemo157/dotjs-opera">
+  <name>dotjs</name>
+  <description>dotjs for Opera!</description>
+  <author href="http://nemo157.com" email="ghostunderscore@gmail.com">Nemo157 (Wim Looman)</author>
+  <access origin="http://localhost:3131" />
+  <access origin="http://code.jquery.com" />
+</widget>
